@@ -1,0 +1,36 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\})}{\leveltext\leveltemplateid1\'02\'00);}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\})}{\leveltext\leveltemplateid101\'02\'00);}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\tx220\tx720\pardeftab720\li720\fi-720
+\ls1\ilvl0
+\f0\fs24 \cf0 Jessica Wong\
+23095643\
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720
+\ls2\ilvl0\cf0 {\listtext	1)	}415.6672088393588       gurjian\
+{\listtext	2)	}280.57060231817735      gagik\
+{\listtext	3)	}221.68917804765803      armen\
+{\listtext	4)	}184.1244577713039       hakhnazarian\
+{\listtext	5)	}145.23507137084326      noyan\
+{\listtext	6)	}144.68249840391383      tapan\
+{\listtext	7)	}129.5396664199326       aniakchak\
+{\listtext	8)	}89.71509205834919       _inscription\
+{\listtext	9)	}73.07007646978559       rotunda\
+{\listtext	10)	}70.4424907456794        80132\
+{\listtext	11)	}70.4424907456794        krusenstern\
+{\listtext	12)	}70.22179154702783       catastophe\
+{\listtext	13)	}70.19817670719151       shakspeare\
+{\listtext	14)	}66.3804134068678        requiris\
+{\listtext	15)	}62.013955275351265      9323\
+{\listtext	16)	}59.578750038841875      f6ren\
+{\listtext	17)	}58.93538516953515       jaddeo\
+{\listtext	18)	}56.89749720588669       saintsbury\
+{\listtext	19)	}53.22079878048561       raa\
+{\listtext	20)	}52.62455528992156       mathius\
+\
+}
